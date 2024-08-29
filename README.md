@@ -26,13 +26,13 @@ Now, that you know what joins mean, let us next learn the different types of joi
 # How many types of Joins are there in SQL?
 There are mainly four types of joins that you need to understand. They are:
 
-*INNER JOIN
+* INNER JOIN
 
-*FULL JOIN
+* FULL JOIN
 
-*LEFT JOIN
+* LEFT JOIN
 
-*RIGHT JOIN
+* RIGHT JOIN
 
 
 ![](img/joins2.PNG) 
